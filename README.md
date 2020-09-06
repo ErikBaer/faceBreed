@@ -4,5 +4,9 @@ This code accepts any user-supplied image as input. If a dog is detected in the 
 
 Please find sample output below:
 
-![dog_face_1] (./dogface_1.png)
+https://baerdata-misc.s3.eu-central-1.amazonaws.com/dogface_1.png
+
+https://baerdata-misc.s3.eu-central-1.amazonaws.com/dogface2.png
+
+https://baerdata-misc.s3.eu-central-1.amazonaws.com/doggy1.png
 
