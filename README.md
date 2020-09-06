@@ -4,5 +4,5 @@ This code accepts any user-supplied image as input. If a dog is detected in the 
 
 Please find sample output below:
 
-![dog_face_1] (/dogface_1.png)
+![dog_face_1] (./dogface_1.png)
 
